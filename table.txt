@@ -1,0 +1,47 @@
+
+<html>
+<head>
+</head>
+<body bgcolor="pink">
+	<table border="1" cellpadding="25" cellspacing="0" align="center"  >
+		<tr colspan="5" >
+			<th colspan="5">Community Courses -- Bath Autom 1997</th>
+		</tr>
+		<tr>
+			<th>Course Name</th>
+			<th>Course Tutor</th>
+			<th>Summary</th>
+			<th>Code</th>
+			<th>Fee</th>
+		</tr>
+		<tr>
+			<td>After the civil war</td>
+			<td>DR.John Wills</td>
+			<td>The course will examine
+			<br>
+			the turbulent years in England
+			after 1646.</td>
+			<td>H27</td>
+			<td>$36</td>
+		</tr>
+		<tr>
+			<td>An audition to Angle-Saxson England</td>
+			<td>DR.Mark Cuttle</td>
+			<td>One day course will be introducing
+			<br>
+			medieval period reconstruction the Angle-Saxson.</td>
+			<td>H30</td>
+			<td>$40</td>
+		</tr>
+		<tr>
+			<td>The Glory that was Greece</td>
+			<td>DR.Valeire Lorrent</td>
+			<td>Birthplace of democracy, philosophy
+			<br>
+			,heartland of theaters, home of arguments.</td>
+			<td>H37</td>
+			<td>$80</td>
+		</tr>
+	</table>
+</body>
+</html> 
